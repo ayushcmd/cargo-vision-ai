@@ -1,0 +1,17 @@
+CargoVision AI
+Copyright 2026 Ayush Raj
+
+Project lead and maintainer: Ayush Raj (https://github.com/ayushcmd).
+
+The Apache License, Version 2.0 applies to original CargoVision AI
+contributions for which Ayush Raj owns the rights, including contributions
+whose copyright has been validly transferred to him.
+
+This repository includes components and material subject to other licenses.
+In particular, the bundled wagon number detection component retains its
+historical MIT License notice, including Copyright (c) 2023 Tamal Das.
+That notice is retained to preserve the terms and attribution of the
+previously licensed material; it does not contradict any later transfer
+of copyright ownership.
+
+See THIRD_PARTY_NOTICES.md for relevant components and references.
