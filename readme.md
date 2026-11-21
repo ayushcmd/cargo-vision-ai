@@ -652,8 +652,11 @@ Contributions, feature proposals, and bug reports are welcome!
 
 ## License and Attribution
 
+### Project ownership and maintenance
+**Project lead and repository maintainer: Ayush Raj (`ayushcmd`).** CargoVision AI was initiated and directed by Ayush Raj, with implementation assistance from collaborators. Individual upstream contributions and copyright notices remain attributed to their original authors.
+
 ### License
-This project is licensed under the **MIT License** — see the [LICENSE](wagon%20number%20detection/LICENSE) file for details.
+The [MIT license in the wagon number detection component](wagon%20number%20detection/LICENSE) applies to that component and retains its original copyright notice. It does **not** establish a repository-wide license for CargoVision AI. A separate top-level license will be considered after reviewing ownership and upstream obligations.
 
 ### Upstream Attribution & Academic Acknowledgements
 CargoVision AI is an independently maintained, local-first computer vision engineering platform derived from and building upon foundational open-source research:
